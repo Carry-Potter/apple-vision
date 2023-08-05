@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/apple-vision/static/css/main.3f224565.css",
+    "main.js": "/apple-vision/static/js/main.6aee4d13.js",
+    "static/media/Apple vision image.png": "/apple-vision/static/media/Apple vision image.7bbf4d8f0ba233bfdb76.png",
+    "index.html": "/apple-vision/index.html",
+    "main.3f224565.css.map": "/apple-vision/static/css/main.3f224565.css.map",
+    "main.6aee4d13.js.map": "/apple-vision/static/js/main.6aee4d13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f224565.css",
+    "static/js/main.6aee4d13.js"
+  ]
+}
